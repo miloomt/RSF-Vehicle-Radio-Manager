@@ -1,0 +1,19 @@
+# Manager user data
+Data/
+
+# Build output
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+
+# Release binaries belong in GitHub Releases
+*.exe
+*.zip
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
