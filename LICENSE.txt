@@ -1,0 +1,7 @@
+RSF Radio Manager — Copyright (c) 2026 RSF.
+
+Se permite usar y redistribuir este paquete oficial del Manager completo y sin alteraciones para crear paquetes musicales dependientes de RSF Radio. Conserva los avisos de autoría. No se autoriza presentar el Manager ni la radio base como obra propia.
+
+Los paquetes musicales creados pueden editarse y distribuirse por sus autores, sujetos a los derechos sobre las grabaciones que incluyan. Esta autorización no concede derechos sobre música de terceros.
+
+Python se distribuye bajo su propia licencia, incluida en PYTHON_LICENSE.txt. PyInstaller permite distribuir los ejecutables producidos mediante su excepción para programas empaquetados. FFmpeg se descarga directamente de su proveedor y conserva las condiciones incluidas en esa descarga; no forma parte de este ZIP.
